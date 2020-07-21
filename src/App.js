@@ -5,11 +5,13 @@ import ParticipantList from './ParticipantList';
 import Stage from './Stage';
 import store from './store';
 import Participant from './Participant';
+import ChatLog from './ChatLog';
 
 function App() {
   return (
     <div className="App">
       <Stage participants={store.participants}/>
+      <ChatLog />
     </div>
   );
 }
