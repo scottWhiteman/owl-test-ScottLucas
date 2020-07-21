@@ -28,7 +28,7 @@
   color: #61dafb;
 }
 
-.ParticipantList {
+/* .ParticipantList {
   list-style: none;
   display: flex;
   align-items: flex-start;
@@ -47,6 +47,10 @@
   width: 24px;
 }
 
+#Stage {
+  background-color: #282c34;
+}
+
 .UserStatus {
   flex: 1;
-}
+} */

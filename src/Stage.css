@@ -1,0 +1,12 @@
+#Stage {
+    background-color: #ccc;
+    display: flex;
+    flex: row;
+    flex-wrap: wrap;
+}
+
+#Stage img {
+    width: 50%;
+    height: 50%;
+    text-align: center;
+}
