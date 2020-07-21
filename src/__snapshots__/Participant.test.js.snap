@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders Participant to UI 1`] = `
+<li
+  className="Participant"
+  id={800}
+>
+  <img
+    alt="this user's avatar"
+    src="https://robohash.org/doloredolorescupiditate.jpg?size=200x200&set=set1"
+  />
+  <div
+    className="UserStatus"
+  >
+    <p>
+      Joey
+    </p>
+    <p>
+      left session
+    </p>
+  </div>
+</li>
+`;

@@ -1,0 +1,80 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Participants render without crash 1`] = `
+<div>
+  <div>
+    <p>
+      Axe Kubicka
+       
+      4:48
+    </p>
+    <p>
+      Hello world
+    </p>
+  </div>
+  <div>
+    <p>
+      Caty Flucker
+       gave a 
+      thumbs-up
+      .
+    </p>
+  </div>
+  <div>
+    <p>
+      Frank Runciman
+       gave a 
+      thumbs-down
+      .
+    </p>
+  </div>
+  <div>
+    <p>
+      Koren Templeton
+       gave a 
+      raise-hand
+      .
+    </p>
+  </div>
+  <div>
+    <p>
+      Koren Templeton
+       gave a 
+      clap
+      .
+    </p>
+  </div>
+  <div>
+    <p>
+      Koren Templeton
+       gave a 
+      join
+      .
+    </p>
+  </div>
+  <div>
+    <p>
+      Ashla Attwool
+       gave a 
+      leave
+      .
+    </p>
+  </div>
+  <div>
+    <p>
+      Axe Kubicka
+       gave a 
+      join-stage
+      .
+    </p>
+  </div>
+  <div>
+    <p>
+      Axe Kubicka
+       gave a 
+      leave-stage
+      .
+    </p>
+  </div>
+</div>
+`;

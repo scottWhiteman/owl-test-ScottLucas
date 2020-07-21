@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  display: flex;
 }
 
 .App-logo {
@@ -28,6 +29,19 @@
   color: #61dafb;
 }
 
+.ParticipantContainer {
+  flex-basis: 0;
+  flex: 1 1 0px;
+  background-color: #fff;
+  max-width: 330px;
+  font-size: 16px;
+  text-align: left;
+}
+
+#Stage {
+  flex-basis: 0;
+  flex: 1 1 0px;
+}
 /* .ParticipantList {
   list-style: none;
   display: flex;

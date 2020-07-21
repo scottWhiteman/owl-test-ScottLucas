@@ -1,12 +1,15 @@
 #Stage {
-    background-color: #ccc;
+    background-color: #353535;
     display: flex;
-    flex: row;
+    flex-direction: row;
     flex-wrap: wrap;
 }
 
+#Stage .Participant {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
 #Stage img {
-    width: 50%;
     height: 50%;
-    text-align: center;
 }

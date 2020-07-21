@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Participants render without crash 1`] = `
+<li
+  className="Participant"
+>
+  <img
+    alt="this user's avatar"
+  />
+  <div
+    className="UserStatus"
+  >
+    <p />
+    <p>
+      left session
+    </p>
+  </div>
+</li>
+`;

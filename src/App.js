@@ -10,8 +10,12 @@ import ChatLog from './ChatLog';
 function App() {
   return (
     <div className="App">
+      <div className="ParticipantContainer">
+        <ParticipantList />
+        <ChatLog />
+      </div>
       <Stage participants={store.participants}/>
-      <ChatLog />
+      
     </div>
   );
 }

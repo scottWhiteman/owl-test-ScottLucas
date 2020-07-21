@@ -1,4 +1,5 @@
 import React from 'react';
+import './ChatLog.css';
 import store from './store';
 
 class ChatLog extends React.Component {
@@ -33,7 +34,7 @@ class ChatLog extends React.Component {
     console.log(elems);
     
     return (
-      <div>
+      <div id="ChatLog">
         {elems}
       </div>
     );
